@@ -1,5 +1,5 @@
 # yolo_from_scratch
-Sıfırdan Adım Adım PyTorch Kullanılarak YOLO İmplementasyonu
+Sıfırdan Adım Adım PyTorch Kullanılarak YOLO İmplementasyonu Google Colab
 
 *Yolo algoritması arkasındaki fikir
 *Model Mimarisi
