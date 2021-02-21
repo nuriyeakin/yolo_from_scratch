@@ -101,5 +101,3 @@ class VOCDataset(torch.utils.data.Dataset): #bilgileri buradan alacağız. (inhe
 
         return image, label_matrix
 
-
-        #utilsi yapmayacağım daha önceki videolarda anlattım dedi sırada train var dedi
